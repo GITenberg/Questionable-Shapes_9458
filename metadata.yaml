@@ -1,0 +1,33 @@
+_repo: Questionable-Shapes_9458
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: 'At the New York City gentlemen''s club known as the Turkish Room, members
+  gathered to tell stories of psychic phenomena and the supernatural. This 1903 departure
+  for the &#147;Dean of American Realism includes three novellas: &#147;His Apparition,
+  &#147;The Angel of the Lord, and &#147;Though One Rose from the Dead.'
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: His apparition -- The angel of the Lord -- Though one rose from the
+  dead.
+title: Questionable Shapes
+url: http://www.gutenberg.org/ebooks/9458
