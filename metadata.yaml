@@ -1,5 +1,8 @@
 _repo: Questionable-Shapes_9458
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -15,6 +18,8 @@ description: 'At the New York City gentlemen''s club known as the Turkish Room, 
   gathered to tell stories of psychic phenomena and the supernatural. This 1903 departure
   for the &#147;Dean of American Realism includes three novellas: &#147;His Apparition,
   &#147;The Angel of the Lord, and &#147;Though One Rose from the Dead.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9458#Questionable-Shapes
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
